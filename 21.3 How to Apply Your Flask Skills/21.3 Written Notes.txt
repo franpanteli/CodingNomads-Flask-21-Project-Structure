@@ -1,0 +1,47 @@
+-> Keep applying your Flask skills to continue improving and gaining experience
+	-> Practicing is key to mastering Flask, and there are many ways to apply your knowledge
+
+-> Ways to Apply Your Flask Skills:
+	-> Volunteering for causes and organisations in need of web development
+		-> Many smaller organisations lack dedicated web developers
+		-> Offer to build websites or APIs for free to help these causes
+		-> Working on real-world projects is a great way to build your resume
+
+	-> Friends and Family may need web development services
+		-> Offer your skills to those in your personal network
+		-> Working on these projects allows you to practice and build your portfolio
+
+	-> Contribute to Open-Source Projects
+		-> Contributing to projects can increase your visibility and improve your GitHub profile
+		-> Start with small contributions like fixing typos or improving documentation
+		-> Gradually take on more complex tasks such as contributing code
+		-> Open-source contributions can help you build a reputation and connect with the community
+
+	-> Contracting allows you to earn while building your experience
+		-> Register on contracting websites and offer your services as a freelance web developer
+		-> Build your client base, improve your skills, and practice remote work
+		-> Contracting is flexible, allowing you to work on multiple projects simultaneously
+
+	-> Apply for a Corporate Job in a Junior Developer role
+		-> Your Flask skills are valuable to companies looking for back-end developers
+		-> Prepare for coding interviews and practice common technical questions
+		-> Join online communities and use resources to improve your chances in job interviews
+
+	-> Apply for a Startup Job where you may take on varied roles
+		-> Startups often value developers with a broader skill set and flexibility
+		-> Work in startups can be intense, offering room for growth but also risk of burnout
+		-> Startups may offer less rigid job definitions, providing an opportunity to expand your skillset
+
+	-> Your Own Thing: Start your own business or web development venture
+		-> Flask is versatile enough to support entrepreneurial projects
+		-> As a digital entrepreneur, you can outsource tasks while focusing on core programming
+		-> Leverage your technical knowledge to find the right people to help with development
+
+-> Summary of Ways to Apply Your Flask Skills:
+	-> Volunteer: Help organisations in need of web development
+	-> Friends and Family: Offer web services to your personal network for low or no cost
+	-> Open-Source: Contribute to projects you use and love
+	-> Contracting: Freelance through online platforms to earn and practice
+	-> Corporate Jobs: Apply for Junior Developer roles at established companies
+	-> Startups: Explore startup opportunities with broader responsibilities
+	-> Entrepreneurship: Use Flask to build your own projects and businesses

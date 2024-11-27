@@ -1,0 +1,24 @@
+-> Keep sharpening your Flask skills by exploring more tutorials
+	-> "Official" Flask Tutorial is a great starting point for understanding Flask’s core features
+	-> RealPython Flask Tutorial Part I provides a practical introduction with examples
+	-> Flask Mega-Tutorial dives deep into building a full-featured application
+	-> Software Testing Help Flask Tutorial focuses on Flask testing practices
+	-> Digital Ocean’s Flask Tutorial offers a hands-on approach to building web apps
+
+-> Continue practicing by building more projects to deepen your understanding
+	-> The more you build, the better you will grasp Flask’s capabilities
+	-> Try creating different types of applications to expand your experience
+	-> Working on a variety of projects will also expose you to different tools and libraries
+
+-> If tutorials become repetitive, take the next step and build a website idea of your own
+	-> Challenge yourself by working on new, personal projects
+	-> Improve your capstone project by adding additional features or scaling it up
+	-> Pushing yourself with real-world applications will accelerate your learning
+
+-> Stay connected with the Flask community for support and ideas
+	-> Share your progress, ideas, and questions on Discord to get feedback and guidance
+	-> Engaging with the community helps you learn from others and stay motivated
+
+-> Once you're confident in your Flask skills, explore the next steps in your learning journey
+	-> Look into more advanced topics or additional frameworks to complement Flask
+	-> Resources are available to help you transition from Flask to other web technologies or career tracks

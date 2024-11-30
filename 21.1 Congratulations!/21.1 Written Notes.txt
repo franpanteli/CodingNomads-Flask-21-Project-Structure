@@ -1,44 +1,44 @@
 -> Flask is a micro web framework for Python, designed to be lightweight and flexible
-	-> It allows developers to build web applications quickly and with minimal complexity
-	-> Flask provides the basic tools needed for web development, but it leaves more advanced features to be added through extensions
+    -> It allows developers to build web applications quickly and with minimal complexity
+    -> Flask provides the basic tools needed for web development, but it leaves more advanced features to be added through extensions
 
 -> The core of Flask consists of routing, request handling, and templating
-	-> Routes define the URL patterns that map to specific functions in the application
-	-> Requests are handled by Flask's built-in request object, allowing you to access data from forms, URLs, and headers
-	-> Jinja2 templating engine is used to render HTML templates dynamically
+    -> Routes define the URL patterns that map to specific functions in the application
+    -> Requests are handled by Flask's built-in request object, allowing you to access data from forms, URLs, and headers
+    -> Jinja2 templating engine is used to render HTML templates dynamically
 
 -> Flask also supports RESTful APIs, allowing you to build APIs that return data in formats like JSON
-	-> Flask's jsonify function helps to easily convert Python data structures into JSON
-	-> You can define API endpoints using Flask's route decorators, just like for regular web pages
+    -> Flask's jsonify function helps to easily convert Python data structures into JSON
+    -> You can define API endpoints using Flask's route decorators, just like for regular web pages
 
 -> Flask is designed to be extensible, and many third-party extensions are available
-	-> Popular extensions include Flask-SQLAlchemy for database integration, Flask-WTF for form handling, and Flask-Migrate for database migrations
-	-> Extensions can be installed via pip and configured within the application
+    -> Popular extensions include Flask-SQLAlchemy for database integration, Flask-WTF for form handling, and Flask-Migrate for database migrations
+    -> Extensions can be installed via pip and configured within the application
 
 -> Flask’s development server makes it easy to test applications during development
-	-> You can run the server with a simple command and view your app in the browser as you make changes
-	-> Flask's reloader automatically reloads the server when you change the code
+    -> You can run the server with a simple command and view your app in the browser as you make changes
+    -> Flask's reloader automatically reloads the server when you change the code
 
 -> Deployment of Flask apps to production requires additional setup
-	-> You will often use WSGI servers like Gunicorn to serve your Flask app
-	-> You may also need a reverse proxy like Nginx to handle incoming traffic
+    -> You will often use WSGI servers like Gunicorn to serve your Flask app
+    -> You may also need a reverse proxy like Nginx to handle incoming traffic
 
 -> Flask provides a built-in debugger for development purposes
-	-> The debugger helps you to trace errors, examine the stack trace, and interact with the application while it is running
-	-> Debugging should be disabled in production environments for security reasons
+    -> The debugger helps you to trace errors, examine the stack trace, and interact with the application while it is running
+    -> Debugging should be disabled in production environments for security reasons
 
 -> Testing in Flask is facilitated through its test client
-	-> The test client allows you to simulate requests to your Flask app and check the responses
-	-> Flask also integrates with popular testing frameworks like pytest for more advanced testing setups
+    -> The test client allows you to simulate requests to your Flask app and check the responses
+    -> Flask also integrates with popular testing frameworks like pytest for more advanced testing setups
 
 -> To organise a Flask application, you can structure your code into blueprints
-	-> Blueprints allow you to group routes and handlers into modules, making the app more maintainable
-	-> Each blueprint can have its own templates, static files, and routes
+    -> Blueprints allow you to group routes and handlers into modules, making the app more maintainable
+    -> Each blueprint can have its own templates, static files, and routes
 
 -> Flask is ideal for small to medium-sized applications, but it can scale to larger projects with the right extensions
-	-> Flask gives you full control over how you structure your application, making it flexible for various project needs
+    -> Flask gives you full control over how you structure your application, making it flexible for various project needs
 
 -> The Flask ecosystem includes several useful tools for development
-	-> Flask-Login handles user authentication and session management
-	-> Flask-RESTful simplifies the creation of REST APIs
-	-> Flask-Mail allows you to send email messages from your app
+    -> Flask-Login handles user authentication and session management
+    -> Flask-RESTful simplifies the creation of REST APIs
+    -> Flask-Mail allows you to send email messages from your app

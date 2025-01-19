@@ -1,7 +1,7 @@
 
 # CodingNomads-Flask-21-Project-Structure
 ## Repository File Tree
-This repository contains my work for the 21nd module in the [Coding Nomads Flask Web Framework](https://codingnomads.com/course/python-flask-web-framework) course. I completed this 21-module course as part of my independent learning, to invest in my Python skills. I produced an in-depth library of resources on this module, whose file tree is provided below. 
+This repository contains my work for the 21st module in the [Coding Nomads Flask Web Framework](https://codingnomads.com/course/python-flask-web-framework) course. I completed this 21-module course as part of my independent learning, to invest in my Python skills. I produced an in-depth library of resources on this module, whose file tree is provided below. 
 
 <img width="881" alt="Screenshot 2025-01-19 at 15 45 44" src="https://github.com/user-attachments/assets/cd8e2065-af41-4af9-9901-f31ec42e6ed6" />
 

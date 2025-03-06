@@ -1,35 +1,35 @@
--> Once you've completed Flask, it's time to explore new areas to expand your skill set
-    -> There are multiple directions you can go in, depending on your interests and career goals
+-> once you've completed flask, it's time to explore new areas to expand your skill set  
+    -> there are multiple directions you can go in, depending on your interests and career goals  
 
--> What To Learn Next:
-    -> More Back-End Development with Django
-        -> Django is another popular Python web framework, offering a different approach to web development
-        -> It is considered a "boilerplate" framework, meaning it comes with a lot of built-in features ("batteries included")
-        -> Django is ideal for complex projects that need to be built quickly
-        -> While Django is less flexible than Flask, it is very useful for rapid development
-        -> Learning Django is a logical next step if you're serious about web development with Python
+-> what to learn next:  
+    -> more back-end development with django  
+        -> django is another popular python web framework, offering a different approach to web development  
+        -> it is considered a "boilerplate" framework, meaning it comes with a lot of built-in features ("batteries included")  
+        -> django is ideal for complex projects that need to be built quickly  
+        -> while django is less flexible than flask, it is very useful for rapid development  
+        -> learning django is a logical next step if you're serious about web development with python  
 
-    -> Front-End Web Development with JavaScript
-        -> JavaScript is essential for front-end development and is widely used to create dynamic user interfaces
-        -> Learning JavaScript can help you become a full-stack developer by complementing your Flask back-end skills
-        -> Improving the front-end of your projects will give you more control over the entire development process
-        -> Consider the CodingNomads JavaScript 101 Course to enhance your JavaScript skills
+    -> front-end web development with javascript  
+        -> javascript is essential for front-end development and is widely used to create dynamic user interfaces  
+        -> learning javascript can help you become a full-stack developer by complementing your flask back-end skills  
+        -> improving the front-end of your projects will give you more control over the entire development process  
+        -> consider the codingnomads javascript 101 course to enhance your javascript skills  
 
-    -> Data Science & Machine Learning
-        -> Flask can be used as a back-end framework for data science applications, making it a good foundation for AI-related projects
-        -> Learn to present data science and machine learning models as web applications using Flask
-        -> Consider diving into courses related to Data Science & Machine Learning to expand your expertise
+    -> data science & machine learning  
+        -> flask can be used as a back-end framework for data science applications, making it a good foundation for ai-related projects  
+        -> learn to present data science and machine learning models as web applications using flask  
+        -> consider diving into courses related to data science & machine learning to expand your expertise  
 
-    -> Job Preparation
-        -> If you're looking to start a career or freelance as a Flask developer, focus on building your professional profile
-        -> Consider career coaching to help you make informed decisions and prepare for the job market
-        -> Building a strong portfolio and resume is essential to landing a job or contracting work as a software developer
-        -> Stay engaged in the community and keep learning to enhance your employability
+    -> job preparation  
+        -> if you're looking to start a career or freelance as a flask developer, focus on building your professional profile  
+        -> consider career coaching to help you make informed decisions and prepare for the job market  
+        -> building a strong portfolio and resume is essential to landing a job or contracting work as a software developer  
+        -> stay engaged in the community and keep learning to enhance your employability  
 
--> Additional Resources:
-    -> CodingNomads Django Course for learning the Django framework
-    -> CodingNomads JavaScript 101 Course for a deep dive into front-end development
-    -> CodingNomads Data Science Courses to explore machine learning and AI
-    -> CodingNomads Career Coaching for job preparation and career guidance
+-> additional resources:  
+    -> codingnomads django course for learning the django framework  
+    -> codingnomads javascript 101 course for a deep dive into front-end development  
+    -> codingnomads data science courses to explore machine learning and ai  
+    -> codingnomads career coaching for job preparation and career guidance  
 
--> Keep up the great work, and stay in touch with the community on Discord as you continue your learning journey
+-> keep up the great work, and stay in touch with the community on discord as you continue your learning journey  
